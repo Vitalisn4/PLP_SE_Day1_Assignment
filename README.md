@@ -1,6 +1,6 @@
-SE_Day1_Assignment
+## SE_Day1_Assignment
 
-#Part 1: Introduction to Software Engineering
+### Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
@@ -58,7 +58,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 - System testing is testing the entire software system as a whole
 - Acceptance testing is testing the software against user requirements to ensure it meets user needs.
 
-#Part 2: Introduction to AI and Prompt Engineering
+### Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 

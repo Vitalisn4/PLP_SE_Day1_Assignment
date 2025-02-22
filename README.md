@@ -3,9 +3,11 @@ SE_Day1_Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the systemic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It simply involves the design, development, testing, deployment, and maintenance of software products. The importance of software engineering in the technology industry incluse: enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Milestones in the evolution of software engineering include:
 
 - Development of programming languages like C which has been used to build some of the most used operating systems today.
@@ -13,6 +15,7 @@ Milestones in the evolution of software engineering include:
 - The establishment of software engineering as a discipline in the 1960s which since then has birthed many of the software applications we have available now and solve countless issues from agriculture, education, technology to healthcare.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 The phases of Software Development Life Cycle include:
 
 - Requirements: which is simply the gathering and documenting of user needs and system requirements.
@@ -45,6 +48,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 - Version Control Systems are software tools for tracking changes to source code and coordinating work among team members. Examples of VCS include: Git, subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 The challenges faced by software engineers include: changing requirements, tight deadlines and technical debt while strategies for overcoming challenges incluse effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -77,9 +81,9 @@ Write a free-verse poem that captures the serene beauty of a tranquil forest, co
 
 Why the Improved Prompt is More Effective:
 
-    Clear: It specifies the type of poem desired (free-verse) and provides a clear focus on the content (tranquil forest, specific sensory details).
-    Specific: It narrows down the topic to a specific setting (forest) and provides details about sensory experiences (rustling leaves, wildflowers, bird songs).
-    Concise: It uses brief, precise language that effectively conveys the desired poem's characteristics.
-    Flexibility: While the improved prompt provides specific guidelines, it also leaves room for creative interpretation, allowing the writer to explore their unique perspective within the given framework.
+- Clear: It specifies the type of poem desired (free-verse) and provides a clear focus on the content (tranquil forest, specific sensory details).
+- Specific: It narrows down the topic to a specific setting (forest) and provides details about sensory experiences (rustling leaves, wildflowers, bird songs).
+- Concise: It uses brief, precise language that effectively conveys the desired poem's characteristics.
+- Flexibility: While the improved prompt provides specific guidelines, it also leaves room for creative interpretation, allowing the writer to explore their unique perspective within the given framework.
 
 
